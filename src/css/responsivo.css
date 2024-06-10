@@ -1,0 +1,21 @@
+@media(max-width: 620px){
+    .cabecalho{
+        padding: 30px;
+    }
+
+    .personagens-slider{
+        padding: 0 15px;
+        gap: 10px;
+    }
+
+    .btn-seta{
+        width: 35px;
+        right: 35px;
+        padding: 35px;
+    }
+
+    .lista-personagens{
+        height: 480px;
+    }
+}
+
